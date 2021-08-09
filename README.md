@@ -1,1 +1,2 @@
-Sample Applications
+Anthos
+- anthos config management setup
