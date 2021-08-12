@@ -8,7 +8,8 @@ spec:
   match:
     kinds:
       - apiGroups: [""]
-        kinds: ["Namespace"]
+        kinds: ["Namespaced"]
   parameters:
     labels:
       - greeting: hello
+
