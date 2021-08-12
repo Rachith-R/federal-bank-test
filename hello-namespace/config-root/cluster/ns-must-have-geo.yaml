@@ -11,4 +11,5 @@ spec:
         kinds: ["Namespace"]
   parameters:
     labels:
-      - key: hello
+      - key:
+        greeting: hello
